@@ -1,5 +1,7 @@
 # modelscope-facefusion Cog model
 
+[![Try a demo on Replicate](https://replicate.com/lucataco/modelscope-facefusion/badge)](https://replicate.com/lucataco/modelscope-facefusion)
+
 This is an implementation of the [modelscope-facefusion](https://www.modelscope.cn/models/damo/cv_unet_face_fusion_torch/summary) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 ## Basic usage
